@@ -1,0 +1,5 @@
+{
+  "name": "firebase",
+  "version": "1.0.0-beta.1",
+  "description": "a custom facade to a postgres backend"
+}
