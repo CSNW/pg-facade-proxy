@@ -8,7 +8,7 @@ try {
   deps_folder = '../../service-deps/';
 }
 catch(e) {
-  deps_folder = '../deps/';
+  deps_folder = '../../deps/';
 }
 
 module.exports = require(`${deps_folder}pg-facade.js`);
